@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst/Scientist
 #### Technical Skills: SQL, Python, Azure, Tableau
 ## Education
 B.A., Computer Science | CUNY Queens College (_May 2024_)
