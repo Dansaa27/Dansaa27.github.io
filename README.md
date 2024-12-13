@@ -23,6 +23,7 @@ Relevant Coursework: Database Systems, Data Structures, Cloud Computing, Prob & 
 [Project Link](https://github.com/Dansaa27/Spotify-Data-Insights-Analysis)
 
 Analyzed over 600,000 Spotify tracks using SQL to uncover key drivers of music popularity, including track attributes, artist dynamics, and release timing. Developed actionable insights into listener engagement by identifying patterns in attributes like danceability and explicit content, revealing trends that amplify audience connection. Created interactive Tableau dashboards to present findings, enabling a data-driven approach to understanding music industry success factors and improving strategic decision-making.
+![Spotify image](/assets/img/512px-Spotify.png)
 
 ### Bike Share Analysis
 [Project Link](https://github.com/Dansaa27/London-Bikes)
