@@ -29,6 +29,7 @@ Analyzed over 600,000 Spotify tracks using SQL to uncover key drivers of music p
 [Project Link](https://github.com/Dansaa27/London-Bikes)
 
 Performed data analysis on bike share usage by leveraging Python Pandas to clean and prepare a robust dataset, uncovering the relationship between weather conditions and rider behavior. Designed an interactive Tableau dashboard to visualize key trends, such as the impact of weather and time of day on usage, providing actionable insights for improved decision-making.
+![Bike Share image](/assets/img/LondonBikesDashboard.twbx)
 
 ### New York Mets Pitching Analysis
 [Project Link](https://github.com/Dansaa27/New-York-Mets-Pitching-Analysis)
