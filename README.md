@@ -23,25 +23,34 @@ Relevant Coursework: Database Systems, Data Structures, Cloud Computing, Prob & 
 [Project Link](https://github.com/Dansaa27/Spotify-Data-Insights-Analysis)
 
 Analyzed over 600,000 Spotify tracks using SQL to uncover key drivers of music popularity, including track attributes, artist dynamics, and release timing. Developed actionable insights into listener engagement by identifying patterns in attributes like danceability and explicit content, revealing trends that amplify audience connection. Created interactive Tableau dashboards to present findings, enabling a data-driven approach to understanding music industry success factors and improving strategic decision-making.
+
 ![Spotify image](/assets/img/512px-Spotify.png)
 
 ### Bike Share Analysis
 [Project Link](https://github.com/Dansaa27/London-Bikes)
 
 Performed data analysis on bike share usage by leveraging Python Pandas to clean and prepare a robust dataset, uncovering the relationship between weather conditions and rider behavior. Designed an interactive Tableau dashboard to visualize key trends, such as the impact of weather and time of day on usage, providing actionable insights for improved decision-making.
-![Bike Share image](/assets/img/LondonBikesDashboard.twbx)
+
+![Bike Share image](/assets/img/London_BikesDash_board.twbx)
 
 ### New York Mets Pitching Analysis
 [Project Link](https://github.com/Dansaa27/New-York-Mets-Pitching-Analysis)
 
 This project offers a focused analysis of the New York Mets' pitching performance in the 2023 season, conducted entirely using SQL. Through data cleaning and SQL queries, the analysis uncovers key pitching metrics and trends. The analysis is done by following a questions to gain insight on the Last pitch thrown.
 
+![New Yoek Mets image](/assets/img/New_York_Mets.svg.png)
+
 ### British Airways Analysis
 [Project Link](https://public.tableau.com/app/profile/daniel.saavedra4145/viz/BritishAirwaysReview_17120341206620/Dashboard1)
 
 Developed an interactive Tableau dashboard to analyze and present customer feedback for British Airways. This tool integrates comprehensive filtering options, including seat type, travel date, traveler type, aircraft, and continent, enabling tailored data exploration. The dashboard features four dynamic graphs that update in real-time based on user-selected filters, providing insightful visualizations of customer satisfaction trends across multiple dimensions. This project not only enhances the understanding of customer experiences but also aids in strategic decision-making by highlighting key areas for improvement.
 
+![Airline image](/assets/img/AirlineDB.png)
+
+
 ### COVID-19 Vaccine Tracker
 [Project Link](https://public.tableau.com/app/profile/daniel.saavedra4145/viz/COVID19dashboard_17120129436860/CovidVaccineTracker)
 
 Developed an interactive Tableau dashboard to visualize global COVID-19 vaccination trends, displaying the percentages of people fully, partially, or not vaccinated by country. The dashboard features robust filtering options by date and location, enabling users to explore vaccination data across various continents and countries, thereby facilitating a comprehensive understanding of worldwide vaccination efforts.
+
+![Airline image](/assets/img/Covid_Vaccine_Tracker.png)
