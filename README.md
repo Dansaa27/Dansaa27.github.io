@@ -14,7 +14,22 @@ Relevant Coursework: Database Systems, Data Structures, Cloud Computing, Prob & 
 - Designed visually appealing and accessible web pages, ensuring a clutter-free and user-centric experience
 
 **eCommerce Seller @ eBay Marketplace (_January 2021 - Present_)**
--Achieved 100% customer satisfaction across over 100 reviews by providing exceptional service and maintaining high-quality standards in reselling a diverse range of comic books, demonstrating commitment to customer excellence and reliability.
--Successfully managed and expanded an online comic book inventory, resulting in over 200 items sold by leveraging strategic online marketing techniques and maintaining a keen eye for market demands and trends.
+- Achieved 100% customer satisfaction across over 100 reviews by providing exceptional service and maintaining high-quality standards in reselling a diverse range of comic books, demonstrating commitment to customer excellence and reliability.
+- Successfully managed and expanded an online comic book inventory, resulting in over 200 items sold by leveraging strategic online marketing techniques and maintaining a keen eye for market demands and trends.
 
 ## Projects
+### Spotify Data Insights Analysis
+Analyzed over 600,000 Spotify tracks using SQL to uncover key drivers of music popularity, including track attributes, artist dynamics, and release timing. Developed actionable insights into listener engagement by identifying patterns in attributes like danceability and explicit content, revealing trends that amplify audience connection. Created interactive Tableau dashboards to present findings, enabling a data-driven approach to understanding music industry success factors and improving strategic decision-making.
+
+### Bike Share Analysis
+- Conducted data exploration and manipulation using Python Pandas to prepare a high-quality dataset for analyzing bike share usage in relation to weather conditions.
+- Created an interactive Tableau dashboard to visualize the impact of weather and time of day on bike usage, enabling users to filter and analyze data for valuable insights.
+
+### New York Mets Pitching Analysis
+This project offers a focused analysis of the New York Mets' pitching performance in the 2023 season, conducted entirely using SQL. Through data cleaning and SQL queries, the analysis uncovers key pitching metrics and trends. The analysis is done by following a questions to gain insight on the Last pitch thrown.
+
+### COVID-19 Vaccine Tracker
+Developed an interactive Tableau dashboard to visualize global COVID-19 vaccination trends, displaying the percentages of people fully, partially, or not vaccinated by country. The dashboard features robust filtering options by date and location, enabling users to explore vaccination data across various continents and countries, thereby facilitating a comprehensive understanding of worldwide vaccination efforts.
+
+### British Airways Analysis
+Developed an interactive Tableau dashboard to analyze and present customer feedback for British Airways. This tool integrates comprehensive filtering options, including seat type, travel date, traveler type, aircraft, and continent, enabling tailored data exploration. The dashboard features four dynamic graphs that update in real-time based on user-selected filters, providing insightful visualizations of customer satisfaction trends across multiple dimensions. This project not only enhances the understanding of customer experiences but also aids in strategic decision-making by highlighting key areas for improvement.
