@@ -2,7 +2,7 @@
 #### Technical Skills: SQL, Python, Azure, Tableau
 ## Education
 B.A., Computer Science | CUNY Queens College (_May 2024_)
-Relevant Coursework: Database Systems, Data Structures, Cloud Computing, Prob & Math Stats
+- Relevant Coursework: Database Systems, Data Structures, Cloud Computing, Prob & Math Stats
 ## Certifications
 - Google Data Analytics Professional Certificate (_March 2024_)
 - Microsoft Certified: Azure Fundamentals (_September 2024_)
