@@ -7,6 +7,7 @@ Relevant Coursework: Database Systems, Data Structures, Cloud Computing, Prob & 
 - Google Data Analytics Professional Certificate (_March 2024_)
 - Microsoft Certified: Azure Fundamentals (_September 2024_)
 - SQL for Data Science @ UC Davis (_July 2024_)
+
 ## Work Experience
 **Software Engineer Intern @ King of The Curve (_July 2022 - August 2022_)**
 - Initiated development of a user-friendly website for a popular app with over 100,000 downloads, focusing on front-end design using CSS, and JavaScript
@@ -22,8 +23,7 @@ Relevant Coursework: Database Systems, Data Structures, Cloud Computing, Prob & 
 Analyzed over 600,000 Spotify tracks using SQL to uncover key drivers of music popularity, including track attributes, artist dynamics, and release timing. Developed actionable insights into listener engagement by identifying patterns in attributes like danceability and explicit content, revealing trends that amplify audience connection. Created interactive Tableau dashboards to present findings, enabling a data-driven approach to understanding music industry success factors and improving strategic decision-making.
 
 ### Bike Share Analysis
-- Conducted data exploration and manipulation using Python Pandas to prepare a high-quality dataset for analyzing bike share usage in relation to weather conditions.
-- Created an interactive Tableau dashboard to visualize the impact of weather and time of day on bike usage, enabling users to filter and analyze data for valuable insights.
+Performed data analysis on bike share usage by leveraging Python Pandas to clean and prepare a robust dataset, uncovering the relationship between weather conditions and rider behavior. Designed an interactive Tableau dashboard to visualize key trends, such as the impact of weather and time of day on usage, providing actionable insights for improved decision-making.
 
 ### New York Mets Pitching Analysis
 This project offers a focused analysis of the New York Mets' pitching performance in the 2023 season, conducted entirely using SQL. Through data cleaning and SQL queries, the analysis uncovers key pitching metrics and trends. The analysis is done by following a questions to gain insight on the Last pitch thrown.
