@@ -1,7 +1,7 @@
 # Data Scientist
 #### Technical Skills: SQL, Python, Azure, Tableau
 ## Education
-B.A., Compauter Science | CUNY Queens College (_May 2024_)
+B.A., Computer Science | CUNY Queens College (_May 2024_)
 Relevant Coursework: Database Systems, Data Structures, Cloud Computing, Prob & Math Stats
 ## Certifications
 - Google Data Analytics Professional Certificate (_March 2024_)
