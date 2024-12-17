@@ -1,9 +1,7 @@
 # Data Analyst/Scientist
 #### Technical Skills: SQL, Python, Azure, Tableau
 ## Links:  
-- [LinkedIn](https://www.linkedin.com/in/daniel--saavedra)  
-- [GitHub](https://github.com/Dansaa27)  
-- [Tableau Profile](https://public.tableau.com/app/profile/daniel.saavedra4145/vizzes)
+ [LinkedIn](https://www.linkedin.com/in/daniel--saavedra) | [GitHub](https://github.com/Dansaa27) | [Tableau Profile](https://public.tableau.com/app/profile/daniel.saavedra4145/vizzes)
 
 ## Education
 B.A., Computer Science | CUNY Queens College (_May 2024_)
